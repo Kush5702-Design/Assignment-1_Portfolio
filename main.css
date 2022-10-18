@@ -51,7 +51,7 @@ h1{
 	font-size:3.5em;
 	padding:0.5em 0 0;
 	text-transform:uppercase;
-	color: #0FE0F9;
+	color: #808080;
 }
 
 h3{
@@ -60,7 +60,7 @@ h3{
 	font-size:2em;
 	font-weight:normal;
 	margin:0 0 1em;
-	color: #0FE0F9;
+	color: #ffffff;
 }
 
 h2{
@@ -68,7 +68,7 @@ h2{
 	font-weight:normal;
 	letter-spacing:0.01em;
 	text-transform:uppercase;
-	color: #BFEC33;
+	color: #ffffff;
 	font-family: Calibri;
 	font-size: 280%;
 }
